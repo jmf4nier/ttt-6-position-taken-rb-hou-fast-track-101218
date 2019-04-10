@@ -1,5 +1,5 @@
 
-board = [" ", " ", " ", " "]
+board = [" ", "X", " ", " "]
 
 
 # code your #position_taken? method here!
